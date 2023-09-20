@@ -34,7 +34,7 @@
 
 **Hello Rails Backend App:** is a hello world project backend using rails.
 
-=> [Link to React app](https://github.com/Bifabig/hello-react-front-end)
+=> [Link to React app](https://github.com/Bifabig/hello-react-front-end/tree/hello-rails-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
